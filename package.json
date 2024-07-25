@@ -1,0 +1,26 @@
+{
+  "name": "sql-to-mongo-javlonbek",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "dev": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "sql-to-mongo"
+  ],
+  "author": "Mirzaabdullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/MirzaabdullayevTest/sql-to-mongo",
+  "devDependencies": {
+    "@types/node": "^18.7.21"
+  }
+}
